@@ -1,16 +1,16 @@
 <h3 align="center">
 	<img src="https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/logo/logo.png" width="150" alt="Logo"/><br/>
  </h3>
- 
+
 # Eva Unit 01 x Catppuccin
 
 ## My windows Evangelion themed windows config. This is my first time ricing windows! I tried to use as little apps as possible and making everything as minimal as possible. 
 
 # Programs
-- [komorebi](github.com/LGUG2Z/komorebi) - windows tiling manager
-- [Spicetify](github.com/spicetify/cli) - Spotify Theming and Extensions
+- [komorebi](https://github.com/LGUG2Z/komorebi) - windows tiling manager
+- [Spicetify](https://github.com/spicetify/cli) - Spotify Theming and Extensions
 - [Vencord](https://github.com/Vendicated/Vencord) Discord Theming and Extensions
-- [Zen Browser](github.com/zen-browser/desktop) - Firefox alternative
+- [Zen Browser](https://github.com/zen-browser/desktop) - Firefox alternative
 
 # komorebi
 I did change config path to my own for organization purposes. The config has some configuration with only 1 option for workspace layout. Please see komorebi documentation to add more layouts.
@@ -60,4 +60,30 @@ I did change config path to my own for organization purposes. The config has som
 A simple [circle cursor](https://www.deviantart.com/idarques/art/Point-er-900139915), I think it fits better with the theme then a sharp cursor style.
 
 # Wallpaper
-I am very picky with wallpapers as I want them to look good for both single monitor and multi monitor use. I have 3 wallpaper options and some work well for multi but not all.
+I am very picky with wallpapers as I want them to look good for both single monitor and multi monitor use. I have 5 wallpaper options and some work well for multi but not all.
+
+## Wallpaper 1
+![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/Wallpaper%201.png)
+[Credit](https://www.pixiv.net/en/artworks/84331308)
+
+## Wallpaper 2
+![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/Wallpaper%202.jpg)
+[Credit](https://www.deviantart.com/qosic/art/EVA-798527266)
+
+## Wallpaper 2 Recolor
+![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/Wallpaper2Recolor.png)
+
+## Wallpaper 3
+![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/Wallpaper3.png)
+[Credit](https://www.deviantart.com/santafung/art/Eva-vs-Godzilla-614209116)
+
+## Wallpaper 4
+![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/Wallpaper%204.jpg)
+[Credit](https://www.deviantart.com/d4ncecat/art/evangelion-445231421)
+
+## Wallpaper 4 Recolor
+![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/Wallpaper4Recolor.png)
+
+## Wallpaper 5
+![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/Wallpaper5)
+[Credit](https://www.deviantart.com/jmasaryk/art/EVA-01-in-Tokyo-3-Wallpaper-4K-1069095291)
