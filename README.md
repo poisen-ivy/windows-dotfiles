@@ -3,14 +3,16 @@
  </h3>
 
 # Eva Unit 01 x Catppuccin
+![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/screenshots/screenshot.png)
 
-## My windows Evangelion themed windows config. This is my first time ricing windows! I tried to use as little apps as possible and making everything as minimal as possible. 
-
+## My windows Evangelion themed windows config. This is my first time ricing windows! I tried to use as little apps as possible and making everything as minimal as possible.
+ 
 # Programs
 - [komorebi](https://github.com/LGUG2Z/komorebi) - windows tiling manager
 - [Spicetify](https://github.com/spicetify/cli) - Spotify Theming and Extensions
 - [Vencord](https://github.com/Vendicated/Vencord) Discord Theming and Extensions
 - [Zen Browser](https://github.com/zen-browser/desktop) - Firefox alternative
+- [Terminal](https://github.com/microsoft/terminal) - Windows Terminal
 
 # komorebi
 I did change config path to my own for organization purposes. The config has some configuration with only 1 option for workspace layout. Please see komorebi documentation to add more layouts.
@@ -56,6 +58,13 @@ I did change config path to my own for organization purposes. The config has som
 	- Zen Back Forward
 	- Now playing Indicator
 	- Catppuccin
+
+# Terminal
+Simple windows terminal visual settings as well as other modifications
+- [Oh my posh](https://ohmyposh.dev/)
+- [Winfetch](https://github.com/lptstr/winfetch)
+- [PSReadLine](https://github.com/PowerShell/PSReadLine)
+
 # Cursor
 A simple [circle cursor](https://www.deviantart.com/idarques/art/Point-er-900139915), I think it fits better with the theme then a sharp cursor style.
 
