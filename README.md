@@ -1,6 +1,7 @@
 <h3 align="center">
 	<img src="https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/logo/logo.png" width="150" alt="Logo"/><br/>
  </h3>
+ 
 # Eva Unit 01 x Catppuccin
 
 ## My windows Evangelion themed windows config. This is my first time ricing windows! I tried to use as little apps as possible and making everything as minimal as possible. 
