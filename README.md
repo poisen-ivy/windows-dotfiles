@@ -85,5 +85,5 @@ I am very picky with wallpapers as I want them to look good for both single moni
 ![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/Wallpaper4Recolor.png)
 
 ## Wallpaper 5
-![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/Wallpaper5.jpg)
+![](https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/wallpapers/wallpaper5.jpg)
 [Credit](https://www.deviantart.com/jmasaryk/art/EVA-01-in-Tokyo-3-Wallpaper-4K-1069095291)
