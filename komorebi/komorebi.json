@@ -1,0 +1,57 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.28/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/applications.yaml",
+  "window_hiding_behaviour": "Cloak",
+  "cross_monitor_move_behaviour": "Insert",
+  "default_workspace_padding": 2,
+  "default_container_padding": 2,
+  "border": true,
+  "border_width": 4,
+  "border_offset": -1,
+  "border_implementation": "Windows",
+  "border_colours": {
+    "single": "#c9a5f5",
+    "stack": "#c4ce38",
+    "monocle": "#ff3399",
+    "unfocused": "#808080"
+  },
+  "stackbar": {
+    "height": 40,
+    "mode": "OnStack",
+    "tabs": {
+      "width": 200,
+      "focused_text": "#c4ce38",
+      "unfocused_text": "#b3b3b3",
+      "background": "#141414"
+    },
+
+	"animation": {
+	  "enabled": true,
+	  "duration": 300,
+	  "style": "EaseInOutExpo",
+	  "fps": 120
+	},
+
+  },
+  "monitors": [
+    { // monitor 1
+      "workspaces": [
+        {
+          "name": "main",
+          "layout": "BSP",
+        }
+      ]
+    },
+    { // monitor 2
+      "workspaces": [
+        {
+          "name": "chat",
+          "layout": "Rows",
+        }
+      ]
+    }
+  ],
+  "alt_focus_hack": true,
+  "window_container_behavior": "Create",
+  "unmanaged_window_operation_behavior": "Op",
+}
