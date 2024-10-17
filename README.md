@@ -13,6 +13,7 @@
 - [Vencord](https://github.com/Vendicated/Vencord) Discord Theming and Extensions
 - [Zen Browser](https://github.com/zen-browser/desktop) - Firefox alternative
 - [Terminal](https://github.com/microsoft/terminal) - Windows Terminal
+- [ButteryTaskbar2](https://github.com/LuisThiamNye/ButteryTaskbar2) - Better Taskbar hider
 
 # komorebi
 I did change config path to my own for organization purposes. The config has some configuration with only 1 option for workspace layout. Please see komorebi documentation to add more layouts.
@@ -51,19 +52,31 @@ I did change config path to my own for organization purposes. The config has som
 	- Hide tab mute
 	- Hide Window Buttons
 	- Floating URLbar
-	- Drop Shadow
-	- Uniform Workspace Button
 	- Bookmark Toolbar Tweaks
 	- Better UniExtBtn
 	- Zen Back Forward
 	- Now playing Indicator
 	- Catppuccin
+### Extensions
+- Bitwarden
+- KellyC Show YouTube Dislike
+- SocialFocus
+- SponserBlock for YouTube
+- Stylus
+- uBlock Origin
+- Unhook
+- Vimium
+
 
 # Terminal
 Simple windows terminal visual settings as well as other modifications
 - [Oh my posh](https://ohmyposh.dev/)
 - [Winfetch](https://github.com/lptstr/winfetch)
 - [PSReadLine](https://github.com/PowerShell/PSReadLine)
+- [z](https://github.com/badmotorfinger/z)
+
+# Buttery Taskbar 2
+All setting are defualt just make sure you set it up to run at start up threw tash scheduler
 
 # Cursor
 A simple [circle cursor](https://www.deviantart.com/idarques/art/Point-er-900139915), I think it fits better with the theme then a sharp cursor style.
