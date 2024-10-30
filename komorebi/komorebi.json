@@ -15,6 +15,12 @@
     "monocle": "#ff3399",
     "unfocused": "#808080"
   },
+  "animation": {
+    "enabled": true, 
+    "duration": 400,
+    "style": "EaseInOutBack",
+    "fps": 180
+  },
   "stackbar": {
     "height": 40,
     "mode": "OnStack",
@@ -24,14 +30,7 @@
       "unfocused_text": "#b3b3b3",
       "background": "#141414"
     },
-
-	"animation": {
-	  "enabled": true,
-	  "duration": 300,
-	  "style": "EaseInOutExpo",
-	  "fps": 120
-	},
-
+  
   },
   "monitors": [
     { // monitor 1
