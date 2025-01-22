@@ -67,6 +67,8 @@ I did change config path to my own for organization purposes. The config has som
 - Unhook
 - Vimium
 
+## Themeing
+Please follow the [Pineapple Fried](https://github.com/TheBigWazz/ZenThemes/tree/main/Zen-current-theme) prior to installing the modification to theme folder
 
 # Terminal
 Simple windows terminal visual settings as well as other modifications
