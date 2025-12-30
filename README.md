@@ -1,3 +1,5 @@
+> [!Warning]
+> This Repository has been archived. Please view the newer version at https://codeberg.org/ivey/windows-dotfiles
 <h3 align="center">
 	<img src="https://github.com/poisen-ivy/widnows-dotfiles/blob/main/assets/logo/logo.png" width="150" alt="Logo"/><br/>
  </h3>
